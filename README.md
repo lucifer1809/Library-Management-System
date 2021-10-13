@@ -25,7 +25,7 @@ pip install pillow
 ## Steps to use
 
   * run the .py file
-  * usename = Prakarsha, password = root
+  * usename = Priyanka, password = root
 
 ## Screenshots
 
